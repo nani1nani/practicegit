@@ -18,3 +18,4 @@ button.addEventListener("click", (e) => {
   box.style.backgroundColor = "blue";
   box.style.margin = "10px";
 });
+const apple = "hello";
